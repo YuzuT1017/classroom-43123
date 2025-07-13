@@ -29,3 +29,5 @@ All the configuration is done in the `config` folder.
 ## To-Do
 - Make it easier to add games
 - Make a better README.md
+
+FORK
